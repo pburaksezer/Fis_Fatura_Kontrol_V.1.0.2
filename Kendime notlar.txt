@@ -1,4 +1,0 @@
-Gelirgider yalnızca bir parça. Model; belge sayısı, 
-tutar dağılımı, faturafiş dengesi, kâr marjı ve beyan oranını 
-birlikte değerlendiriyor; belge bazında sıra dışı tutarları da şüpheli sayıyor.
- İsterseniz ağırlıklarıözellikleri birlikte ayarlayabiliriz.
